@@ -82,7 +82,7 @@
   }
 }
 
-@media (min-width: 768px) and (max-width: 960px){
+@media (min-width: 768px) and (max-width: 1200px){
   *{
     box-sizing: border-box;
   }
@@ -167,7 +167,7 @@
       height: 250px;
   }
     .foot{
-      
+      float: left;
       border: 1px solid;
       border-color: black;
       background-color: burlywood;
